@@ -1,3 +1,4 @@
+![AWS Detection Lab Diagram](./imagemarquitetura.png)
 # Cloud Detection Lab
 
 ## Objective
